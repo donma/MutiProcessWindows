@@ -1,7 +1,7 @@
 # MutiProcessWindows
 
 
-![alt 預覽](https://github.com/donma/BlackcatShippingOrderPrinter/blob/master/sh0571111.jpg?raw=true)
+![alt 預覽](https://github.com/donma/MutiProcessWindows/blob/master/mps.jpg?raw=true)
 
 Winform 中製作MDI Windows 並且擁有自己的Process 
 
